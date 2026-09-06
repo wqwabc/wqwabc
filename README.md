@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm a third-year undergraduate student majoring in Big Data at Fuzhou University. My research interests include big data development and graph machine learning.
 
+- 🔭 I’m currently working on data mining projects.
+- 🌱 I’m currently learning distributed system principles,model deployment and Flink.
+- 💬 Ask me about Python, Spark, Hive, PyG and algorithm problems.
+- 📫 How to reach me: https://github.wqwabc.io
+- ⚡ Fun fact: I love running and strategy games.
 <!--
 **wqwabc/wqwabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...我单位
 -->
